@@ -18,4 +18,6 @@ This is a personal project I am working on to create a 3D engine completely from
 - Display multiple objects at the same time.
 - Uses Python for high-level stuff (controls, call the 3D engine every frame, etc).
 
-
+## Usage:
+`python3 high_level.py`
+Automatically compiles the C files and runs the project.
